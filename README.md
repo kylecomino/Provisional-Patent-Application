@@ -17,18 +17,18 @@ Inventor(s): Kyle J. Comino
 2. Description:
 A piece made of durable material that can be applied to the outside of an instrument to protect its fragile surface from scratches, dents etc.
  
-3. Purpose
+3. Purpose:
       	Band instruments have fragile surfaces that can be easily scratched and dented, especially when dropped or set down on a damaging surface.
       	Band instrument protection pieces can be applied to the surface of an instrument to shield it from damage. A band instrument protection piece serves as a cover to the surface of an instrument and protects it.
  
-4. Why it’s significant
+4. Why it’s significant:
       	Prior to this invention, no product was available to properly protect a band instrument from scratches, dents etc.  This invention is made up of durable material that properly protects a band instrument. It solves the problem of scratched and dented instruments and limits the amount of damage done.
  
-5. Why it’s needed
+5. Why it’s needed:
 Dropping an instrument or having to set it down is nearly inevitable throughout the span of the instruments life. Band instruments are fragile and usually have glossy surfaces that can be easily damaged. No sufficient repair method is available to fix such costly damages. Scratches, dents and other damages done to a band instrument greatly reduce the instruments life and value.
 Band instrument protection pieces greatly reduce the risk of damages by covering the most at risk areas of the instrument. The protection pieces can be applied to the surface of the instrument both quickly and easily. Once properly applied, the protection pieces provide superb protection (against scratches, dents etc.) as well as lengthening the life and value of the instrument.
       	
-6. Description of drawings
+6. Description of drawings:
  	Figure 1. Figure 1 shows an example of the CAD diagram of the actual invention as a whole.
       	Figure 2. Figure 2 shows an example of the inventions grooved property.
       	Figure 3. Figure 3 shows an example of a view of the inventions inside
@@ -57,15 +57,15 @@ Figure 28. Figure 28 shows the two clipped piece applied and serving its intende
 Figure 29. Figure 29 shows another angle of the two clipped piece applied to an instrument. 
  	Figure 30. Figure 30 shows a new angle of the two clipped prototype applied to an instrument. 
  
-7. How the invention works
+7. How the invention works:
       	The instrument protection piece is applied to the instrument by the user. First, the protection piece should be flexed over the part of the instrument it was made for. Next, the user should check to make sure the instrument fits snugly into any grooves or clips that are part of the protection piece. The grooves and clips are what hold the invention in place around the instrument and the durable material is what protects the instruments surface. The invention is now ready for use and will help protect against possible dents or scratches that the instrument may be exposed to. The invention can be removed by simply pulling it off of the instrument. Once removed, the surface of the instrument is exposed to the risk of possible denting and scratching.  
 
-8. How the invention is made
+8. How the invention is made:
 	One of the many ways band instrument protection pieces can be made is through the process of injection moulding. Once the proper materials and molds are procured, the invention is ready for production. Through the process of injection moulding, material is heated to a certain temperature and then injected into a mold. After the material has finished forming inside the mold, the piece is removed. This process requires the use of an enterprise specialized in the injection moulding procedure. 
 Another possible method for producing instrument protection pieces would be by using a CNC machine. The CNC machine would cut material into a certain shape and size after it has been given the correct dimensions. The CNC process is complete once the desired piece is made. 
 
-9. Necessary elements
+9. Necessary elements:
 	All elements of the invention are necessary, especially the grooves and clips. Another possible design of the invention would be to incorporate two “clips” onto the part.
 
-10. How to use the invention
+10. How to use the invention:
 	First, use your hands to apply the protection piece to the part of the instrument it was made for by. Next, make sure the instrument fits snugly into any grooves or clips that are part of the protection piece. The invention is now ready for use and will help protect against possible dents or scratches that the instrument may be exposed to. The invention can be removed by simply pulling it off the instrument. 
