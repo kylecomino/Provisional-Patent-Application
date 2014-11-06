@@ -3,7 +3,7 @@ Provisional-Patent-Application
 
 Written by Kyle Comino in January of 2013 
 
-Provisional Application for United States patent
+Provisional Application for United States Patent
  
 Title: Band instrument protection pieces
  
