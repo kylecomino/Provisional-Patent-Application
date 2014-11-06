@@ -11,10 +11,10 @@ Inventor(s): Kyle J. Comino
  
  
 
-1. Introduction
+1. Introduction:
       	In marching band the need for a product to protect an instrument from scratches, dents etc. is highly desired. No such product currently exists to properly prevent damages that occur to band instruments. This presents an opportunity for band instrument protection pieces to be used.
  
-2. Description
+2. Description:
 A piece made of durable material that can be applied to the outside of an instrument to protect its fragile surface from scratches, dents etc.
  
 3. Purpose
