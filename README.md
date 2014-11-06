@@ -7,7 +7,7 @@ Provisional-Patent-Application
 
 Provisional Application for United States Patent
  
-Title: Band instrument protection pieces
+Title: Band Instrument Protection Pieces
  
 Inventor(s): Kyle J. Comino
  
