@@ -1,7 +1,9 @@
 Provisional-Patent-Application
 ==============================
 
-Written by Kyle Comino in January of 2013 
+*This document was written by Kyle Comino in January of 2013 
+
+
 
 Provisional Application for United States Patent
  
